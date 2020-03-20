@@ -1,3 +1,3 @@
 <div>
-    {{-- If your happiness depends on money, you will never be happy with yourself. --}}
+    <input type="text" placeholder="Search users" class="border w-full mt-12 p-6 mw-xl mx-auto">
 </div>
